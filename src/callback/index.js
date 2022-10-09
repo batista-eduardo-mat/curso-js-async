@@ -16,4 +16,4 @@ function greeting(name = '', lastName){
     console.log(`hola ${name} ${lastName}!`);
 }
 
-setTimeout(greeting, 2000, 'Eduardo');
+setTimeout(greeting, 2000, 'Eduardo','Batista');
